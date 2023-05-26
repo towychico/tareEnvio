@@ -1,0 +1,3 @@
+C:/Tec/SecondSemester/Programacion orientada a objetos/Homeworks/TareaHerencia/cmake-build-debug/CMakeFiles/TareaHerencia.dir
+C:/Tec/SecondSemester/Programacion orientada a objetos/Homeworks/TareaHerencia/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Tec/SecondSemester/Programacion orientada a objetos/Homeworks/TareaHerencia/cmake-build-debug/CMakeFiles/rebuild_cache.dir
